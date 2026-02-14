@@ -1,0 +1,205 @@
+/* Color Palette: Navy #0A0F1E, Card #161B2D, Accent #FACC15 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #0A0F1E;
+    color: #E2E8F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+    max-width: 900px;
+}
+
+.logo {
+    font-size: 4rem;
+    font-weight: 800;
+    color: #FACC15; /* Gold Accent */
+    margin-bottom: 10px;
+    letter-spacing: -2px;
+}
+
+.tagline {
+    color: #94A3B8;
+    font-size: 1.2rem;
+    margin-bottom: 50px;
+}
+
+.city-picker h2 {
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+.city-options {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.city-card {
+    background-color: #161B2D;
+    border: 1px solid #1E293B;
+    padding: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 300px;
+    position: relative;
+    overflow: hidden;
+}
+
+.city-card:hover {
+    border-color: #FACC15;
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+}
+
+.city-card h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.city-card p {
+    color: #94A3B8;
+}
+
+
+/* Add this to prevent the Regions page from centering everything like the Home page */
+body.regions-page {
+    display: block; /* Overrides the flex centering */
+    text-align: left;
+    background-color: #0A0F1E;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-nav {
+    padding: 40px 40px 10px 40px;
+}
+
+#city-title {
+    font-size: 3rem;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.back-btn {
+    color: #FACC15;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+/* Ensure the region bar looks like a row of buttons */
+.region-bar {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 15px;
+    padding: 20px 40px;
+    background: #111827; /* Slightly different shade to separate nav */
+    border-bottom: 1px solid #1E293B;
+}
+
+.chef-display {
+    padding: 40px;
+}
+
+#selected-region-name {
+    margin-bottom: 20px;
+    color: #94A3B8;
+}
+
+/* Region Buttons Styling */
+.region-btn {
+    background: #161B2D;
+    border: 1px solid #1E293B;
+    color: #E2E8F0;
+    padding: 12px 24px;
+    border-radius: 12px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.3s ease;
+    font-weight: 600;
+}
+
+.region-btn:hover {
+    border-color: #FACC15;
+    background: #1E293B;
+}
+
+.region-btn.active {
+    background: #FACC15;
+    color: #0A0F1E;
+    border-color: #FACC15;
+}
+
+/* Chef Card Grid coordination */
+.chef-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.chef-card {
+    background: #161B2D;
+    border: 1px solid #1E293B;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.cuisine-tag {
+    color: #FACC15;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+}
+
+.price-tag {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+/*Cuisine filter*/
+.cuisine-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 40px;
+    background: #0f172a; /* Slightly darker than region bar */
+}
+
+.cuisine-btn {
+    background: transparent;
+    border: 1px solid #475569;
+    color: #94A3B8;
+    padding: 6px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+}
+
+.cuisine-btn:hover {
+    border-color: #FACC15;
+    color: #fff;
+}
+
+.cuisine-btn.active {
+    background: #1e293b;
+    border-color: #FACC15;
+    color: #FACC15;
+}

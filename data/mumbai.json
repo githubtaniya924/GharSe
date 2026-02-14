@@ -1,0 +1,1448 @@
+[
+  {
+    "city": "Mumbai",
+    "regionNumber": 1,
+    "regionName": "South Mumbai",
+    "areas": ["Colaba", "Marine Drive", "Fort"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Harnoor Kaur",
+            "age": 36,
+            "from": "Gurdaspur",
+            "specialties": ["Pindi Chole", "Amritsari Papad Wadi Sabzi", "Atta Pinni"],
+            "price": 260
+          },
+          {
+            "name": "Chef Gagandeep Singh",
+            "age": 44,
+            "from": "Amritsar",
+            "specialties": ["Kale Chane da Madra", "Anardana Chicken"],
+            "price": 280
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Ipshita Chatterjee",
+            "age": 39,
+            "from": "North Kolkata",
+            "specialties": ["Mochar Ghonto", "Chingri Malaikari"],
+            "price": 360
+          },
+          {
+            "name": "Chef Rituparna Dey",
+            "age": 42,
+            "specialties": ["Dhokar Dalna", "Shukto"],
+            "price": 250
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Janani Subramaniam",
+            "age": 34,
+            "from": "Thanjavur",
+            "specialties": ["Vatha Kuzhambu", "Paruppu Usili"],
+            "price": 230
+          },
+          {
+            "name": "Chef Mythili Raman",
+            "age": null,
+            "specialties": ["Kootu Kari", "Lemon Sevai"],
+            "price": 225
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "regionNumber": 2,
+    "regionName": "Bandra – Khar – Santacruz",
+    "areas": ["Bandra West", "Khar Danda", "Santacruz East"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Navjot Brar",
+            "age": 37,
+            "from": "Hoshiarpur",
+            "specialties": ["Maah Chole", "Bhatti da Murgh", "Gud wali Kheer"],
+            "price": 270
+          },
+          {
+            "name": "Chef Arshdeep Singh",
+            "age": 41,
+            "from": "Tarn Taran",
+            "specialties": ["Karela Pyaz Sabzi", "Lahori Murgh Cholay"],
+            "price": 360
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Sohini Basu",
+            "age": 35,
+            "from": "Shantiniketan",
+            "specialties": ["Chhanar Kofta", "Paat Shak Bhaja"],
+            "price": 260
+          },
+          {
+            "name": "Chef Madhumita Sen",
+            "age": 44,
+            "from": "Howrah",
+            "specialties": ["Ilish Bhapa", "Potol Dorma"],
+            "price": 420
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Divya Raghavan",
+            "age": 32,
+            "from": "Madurai",
+            "specialties": ["Kara Kuzhambu", "Murungakkai Sambar"],
+            "price": 240
+          },
+          {
+            "name": "Chef Priyanka Narasimhan",
+            "age": 39,
+            "from": "Coimbatore",
+            "specialties": ["Kothu Parotta", "Coconut Thogayal"],
+            "price": 260
+          }
+        ]
+      },
+      {
+        "cuisineName": "Malayali",
+        "chefs": [
+          {
+            "name": "Chef Greeshma Pillai",
+            "age": 36,
+            "from": "Kollam",
+            "specialties": ["Kappa & Meen Curry", "Thoran"],
+            "price": 300
+          },
+          {
+            "name": "Chef Neethu Joseph",
+            "age": 40,
+            "from": "Thrissur",
+            "specialties": ["Chicken Stew", "Idiyappam"],
+            "price": 290
+          }
+        ]
+      },
+      {
+        "cuisineName": "Rajasthani",
+        "chefs": [
+          {
+            "name": "Chef Rukmini Choudhary",
+            "age": 38,
+            "from": "Bikaner",
+            "specialties": ["Khichda", "Mangodi Aloo"],
+            "price": 250
+          },
+          {
+            "name": "Chef Sheetal Rajpurohit",
+            "age": 33,
+            "from": "Udaipur",
+            "specialties": ["Rajasthani Kadhi", "Bajra Khichdi"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Gujarati",
+        "chefs": [
+          {
+            "name": "Chef Riddhi Desai",
+            "age": 34,
+            "from": "Rajkot",
+            "specialties": ["Lasaniya Bataka", "Ringan no Olo"],
+            "price": 230
+          },
+          {
+            "name": "Chef Krupa Vora",
+            "age": 42,
+            "from": "Jamnagar",
+            "specialties": ["Dudhi Muthiya", "Gujarati Kadhi"],
+            "price": 210
+          }
+        ]
+      },
+      {
+        "cuisineName": "Maharashtrian",
+        "chefs": [
+          {
+            "name": "Chef Anuja Patil",
+            "age": 37,
+            "from": "Kolhapur",
+            "specialties": ["Tambda Rassa", "Pandhra Rassa"],
+            "price": 380
+          },
+          {
+            "name": "Chef Prajakta Sawant",
+            "age": 29,
+            "from": "Ratnagiri",
+            "specialties": ["Bombil Fry", "Solkadhi"],
+            "price": 340
+          }
+        ]
+      },
+      {
+        "cuisineName": "Hyderabadi",
+        "chefs": [
+          {
+            "name": "Chef Zoya Fatima",
+            "age": 35,
+            "from": "Old City, Hyderabad",
+            "specialties": ["Marag", "Khichdi + Khatta"],
+            "price": 280
+          },
+          {
+            "name": "Chef Sameer Qureshi",
+            "age": 43,
+            "specialties": ["Haleem", "Tala Hua Gosht"],
+            "price": 320
+          }
+        ]
+      },
+      {
+        "cuisineName": "Kashmiri",
+        "chefs": [
+          {
+            "name": "Chef Rabiya Lone",
+            "age": 41,
+            "specialties": ["Haak Saag", "Modur Pulao"],
+            "price": 300
+          },
+          {
+            "name": "Chef Fareeda Shah",
+            "age": 36,
+            "specialties": ["Rista"],
+            "price": 420
+          }
+        ]
+      },
+      {
+        "cuisineName": "Assamese",
+        "chefs": [
+          {
+            "name": "Chef Nilakshi Gogoi",
+            "age": 34,
+            "specialties": ["Duck Curry", "Koldil Bhaji"],
+            "price": 360
+          },
+          {
+            "name": "Chef Pranjalika Deka",
+            "age": 30,
+            "specialties": ["Aloo Pitika", "Ou Tenga Dal"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Odia",
+        "chefs": [
+          {
+            "name": "Chef Lipika Pradhan",
+            "age": 38,
+            "specialties": ["Macha Besara", "Saga Bhaja"],
+            "price": 280
+          },
+          {
+            "name": "Chef Sunita Rout",
+            "age": 44,
+            "specialties": ["Chhena Poda", "Pakhala Bhata"],
+            "price": 230
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bihari",
+        "chefs": [
+          {
+            "name": "Chef Kavita Jha",
+            "age": 36,
+            "from": "Darbhanga",
+            "specialties": ["Bihari Fish Curry", "Kadhi Bari"],
+            "price": 260
+          },
+          {
+            "name": "Chef Anand Pratap",
+            "age": 39,
+            "from": "Ara",
+            "specialties": ["Bihari Kabab", "Ghugni"],
+            "price": 300
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "regionNumber": 3,
+    "regionName": "Andheri – Jogeshwari – Goregaon",
+    "areas": ["Lokhandwala", "Versova", "Film City"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Simran Gill",
+            "age": 33,
+            "from": "Jalandhar",
+            "specialties": ["Bhindi Do Pyaza", "Chana Saag", "Gud Paratha"],
+            "price": 270
+          },
+          {
+            "name": "Chef Manpreet Sandhu",
+            "age": 45,
+            "from": "Ferozepur",
+            "specialties": ["Atta Chicken Curry", "Tawa Kaleji Masala"],
+            "price": 350
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Tuhina Ghosh",
+            "age": 36,
+            "from": "Krishnanagar",
+            "specialties": ["Chitol Macher Muitha", "Begun Pora"],
+            "price": 380
+          },
+          {
+            "name": "Chef Lopamudra Bhattacharya",
+            "age": 40,
+            "from": "Bardhaman",
+            "specialties": ["Enchorer Dalna", "Tomato Khejur Chutney"],
+            "price": 240
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Gayathri Krishnan",
+            "age": 38,
+            "from": "Tirunelveli",
+            "specialties": ["Puli Kulambu", "Keerai Masiyal"],
+            "price": 230
+          },
+          {
+            "name": "Chef Kavitha Sundaram",
+            "age": 41,
+            "from": "Erode",
+            "specialties": ["Kongunadu Chicken Curry", "Ragi Kali"],
+            "price": 360
+          }
+        ]
+      },
+      {
+        "cuisineName": "Malayali",
+        "chefs": [
+          {
+            "name": "Chef Deepa Varghese",
+            "age": 35,
+            "from": "Kottayam",
+            "specialties": ["Nadan Kozhi Curry", "Tapioca Upperi"],
+            "price": 340
+          },
+          {
+            "name": "Chef Arya Namboodiri",
+            "age": 29,
+            "from": "Palakkad",
+            "specialties": ["Pulissery", "Cabbage Thoran"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Rajasthani",
+        "chefs": [
+          {
+            "name": "Chef Sunita Purohit",
+            "age": 39,
+            "from": "Jodhpur",
+            "specialties": ["Methi Bajra Poori", "Kachri ki Sabzi"],
+            "price": 240
+          },
+          {
+            "name": "Chef Leela Kanwar",
+            "age": 42,
+            "from": "Barmer",
+            "specialties": ["Rajasthani Sev Tamatar", "Rabodi ki Sabzi"],
+            "price": 230
+          }
+        ]
+      },
+      {
+        "cuisineName": "Gujarati",
+        "chefs": [
+          {
+            "name": "Chef Falguni Patel",
+            "age": 37,
+            "from": "Anand",
+            "specialties": ["Tuvar Lilva Shaak", "Bhakri + Garlic Chutney"],
+            "price": 220
+          },
+          {
+            "name": "Chef Mehulaben Trivedi",
+            "age": 46,
+            "from": "Bhavnagar",
+            "specialties": ["Khatti Meethi Dal", "Patra"],
+            "price": 210
+          }
+        ]
+      },
+      {
+        "cuisineName": "Maharashtrian",
+        "chefs": [
+          {
+            "name": "Chef Ketaki Salunkhe",
+            "age": 34,
+            "from": "Satara",
+            "specialties": ["Zunka Bhakar", "Thecha"],
+            "price": 200
+          },
+          {
+            "name": "Chef Mrunmayee Khedekar",
+            "age": 31,
+            "from": "Nashik",
+            "specialties": ["Maharashtrian Masale Bhaat", "Koshimbir"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Hyderabadi",
+        "chefs": [
+          {
+            "name": "Chef Saba Rahman",
+            "age": 37,
+            "from": "Secunderabad",
+            "specialties": ["Khatti Bhindi", "Talawa Gosht"],
+            "price": 360
+          },
+          {
+            "name": "Chef Farhan Ahmed",
+            "age": 40,
+            "specialties": ["Shikampuri Kebab", "Qubani ka Meetha"],
+            "price": 330
+          }
+        ]
+      },
+      {
+        "cuisineName": "Kashmiri",
+        "chefs": [
+          {
+            "name": "Chef Insha Wani",
+            "age": 33,
+            "from": "Anantnag",
+            "specialties": ["Dum Aloo", "Tsok Wangun"],
+            "price": 290
+          },
+          {
+            "name": "Chef Yasmeen Sofi",
+            "age": 45,
+            "specialties": ["Goshtaba"],
+            "price": 420
+          }
+        ]
+      },
+      {
+        "cuisineName": "Assamese",
+        "chefs": [
+          {
+            "name": "Chef Ranjumoni Bora",
+            "age": 39,
+            "specialties": ["Pork with Bamboo Shoot", "Lai Xaak Bhaji"],
+            "price": 360
+          },
+          {
+            "name": "Chef Dipshikha Nath",
+            "age": 28,
+            "specialties": ["Masor Pitika", "Rice + Dal"],
+            "price": 250
+          }
+        ]
+      },
+      {
+        "cuisineName": "Odia",
+        "chefs": [
+          {
+            "name": "Chef Minati Behera",
+            "age": 41,
+            "specialties": ["Kanika", "Besara Bhindi"],
+            "price": 220
+          },
+          {
+            "name": "Chef Gitanjali Nayak",
+            "age": 35,
+            "specialties": ["Mutton Jholo", "Chakuli Pitha"],
+            "price": 340
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bihari",
+        "chefs": [
+          {
+            "name": "Chef Poonam Devi",
+            "age": 38,
+            "from": "Muzaffarpur",
+            "specialties": ["Bihari Kadhi with Pakoda", "Parwal ki Mithai"],
+            "price": 210
+          },
+          {
+            "name": "Chef Rohit Kumar",
+            "age": 32,
+            "from": "Bhagalpur",
+            "specialties": ["Mutton Handi", "Sattu Drink"],
+            "price": 350
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "regionNumber": 4,
+    "regionName": "Powai – Vikhroli – Ghatkopar",
+    "areas": ["Hiranandani", "Vikhroli West", "Pant Nagar"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Harleen Bedi",
+            "age": 35,
+            "from": "Kapurthala",
+            "specialties": ["Khatte Aloo", "Methi Malai Matar", "Gurh Wale Chawal"],
+            "price": 270
+          },
+          {
+            "name": "Chef Balraj Thind",
+            "age": 47,
+            "from": "Bathinda",
+            "specialties": ["Bhuna Murgh", "Tandoori Phulka"],
+            "price": 360
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Arpita Lahiri",
+            "age": 37,
+            "from": "Durgapur",
+            "specialties": ["Pabda Macher Jhal", "Lau Chingri"],
+            "price": 370
+          },
+          {
+            "name": "Chef Nabanita Pal",
+            "age": 43,
+            "from": "Nadia",
+            "specialties": ["Cholar Dal", "Jhuri Aloo Bhaja"],
+            "price": 240
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Vidhya Kannan",
+            "age": 39,
+            "from": "Kanchipuram",
+            "specialties": ["Kanchipuram Idli", "Milagu Rasam"],
+            "price": 220
+          },
+          {
+            "name": "Chef Nirmala Shankar",
+            "age": 42,
+            "from": "Salem",
+            "specialties": ["Thakkali Kuzhambu", "Vazhaipoo Poriyal"],
+            "price": 230
+          }
+        ]
+      },
+      {
+        "cuisineName": "Malayali",
+        "chefs": [
+          {
+            "name": "Chef Sreelatha Krishnan",
+            "age": 44,
+            "from": "Alappuzha",
+            "specialties": ["Chemmeen Theeyal", "Red Matta Rice"],
+            "price": 390
+          },
+          {
+            "name": "Chef Rincy Mathew",
+            "age": 33,
+            "from": "Idukki",
+            "specialties": ["Beef Ularthiyathu", "Kallappam"],
+            "price": 370
+          }
+        ]
+      },
+      {
+        "cuisineName": "Rajasthani",
+        "chefs": [
+          {
+            "name": "Chef Kamla Devi",
+            "age": 46,
+            "from": "Nagaur",
+            "specialties": ["Bajre ki Raab", "Panchmel Dal"],
+            "price": 220
+          },
+          {
+            "name": "Chef Priyanka Solanki",
+            "age": 34,
+            "from": "Kota",
+            "specialties": ["Besan Chakki Sabzi", "Jowar Roti"],
+            "price": 230
+          }
+        ]
+      },
+      {
+        "cuisineName": "Gujarati",
+        "chefs": [
+          {
+            "name": "Chef Kinjal Shah",
+            "age": 31,
+            "from": "Surat",
+            "specialties": ["Surti Sev Khamani", "Gujarati Tuvar Dal"],
+            "price": 210
+          },
+          {
+            "name": "Chef Jayshree Parekh",
+            "age": 45,
+            "from": "Vadodara",
+            "specialties": ["Bhindi Sambhariya", "Thepla"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Maharashtrian",
+        "chefs": [
+          {
+            "name": "Chef Shubhangi More",
+            "age": 36,
+            "from": "Ahmednagar",
+            "specialties": ["Shev Bhaji", "Jowar Bhakri"],
+            "price": 210
+          },
+          {
+            "name": "Chef Rutuja Mane",
+            "age": 30,
+            "from": "Konkan",
+            "specialties": ["Kolambi Bhaat", "Kokum Saar"],
+            "price": 360
+          }
+        ]
+      },
+      {
+        "cuisineName": "Hyderabadi",
+        "chefs": [
+          {
+            "name": "Chef Huma Siddiqui",
+            "age": 38,
+            "from": "Charminar area",
+            "specialties": ["Biryani-e-Khubani", "Mirchi ka Salan"],
+            "price": 320
+          },
+          {
+            "name": "Chef Rashid Khan",
+            "age": 44,
+            "specialties": ["Pathar ka Gosht", "Lukhmi"],
+            "price": 390
+          }
+        ]
+      },
+      {
+        "cuisineName": "Kashmiri",
+        "chefs": [
+          {
+            "name": "Chef Aafreen Jan",
+            "age": 37,
+            "from": "Baramulla",
+            "specialties": ["Chaman Qaliya", "Kashmiri Muji Gaad"],
+            "price": 310
+          },
+          {
+            "name": "Chef Mehreen Bano",
+            "age": 41,
+            "specialties": ["Rajma Gogji"],
+            "price": 260
+          }
+        ]
+      },
+      {
+        "cuisineName": "Assamese",
+        "chefs": [
+          {
+            "name": "Chef Barnali Saikia",
+            "age": 35,
+            "specialties": ["Ou Khatta", "Rice + Dal"],
+            "price": 220
+          },
+          {
+            "name": "Chef Manisha Chetia",
+            "age": 40,
+            "specialties": ["Til Diya Maas"],
+            "price": 300
+          }
+        ]
+      },
+      {
+        "cuisineName": "Odia",
+        "chefs": [
+          {
+            "name": "Chef Ranjita Panda",
+            "age": 34,
+            "from": "Puri",
+            "specialties": ["Muga Dalma", "Khajuri Khatta"],
+            "price": 220
+          },
+          {
+            "name": "Chef Sulochana Das",
+            "age": 48,
+            "specialties": ["Chingudi Jhola"],
+            "price": 340
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bihari",
+        "chefs": [
+          {
+            "name": "Chef Nitu Kumari",
+            "age": 33,
+            "from": "Siwan",
+            "specialties": ["Sattu Bharwa Baingan", "Bihari Aloo Chokha"],
+            "price": 210
+          },
+          {
+            "name": "Chef Shashank Mishra",
+            "age": 40,
+            "from": "Chapra",
+            "specialties": ["Ahuna Mutton", "Basmati Rice"],
+            "price": 370
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "regionNumber": 5,
+    "regionName": "Navi Mumbai",
+    "areas": ["Vashi", "Nerul", "Kharghar", "Panvel"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Rupinder Chahal",
+            "age": 38,
+            "from": "Moga",
+            "specialties": ["Kadhi Pakora", "Tawa Aloo Jeera", "Gurh wali Phirni"],
+            "price": 270
+          },
+          {
+            "name": "Chef Kulwant Singh",
+            "age": 46,
+            "from": "Sangrur",
+            "specialties": ["Bhuna Gosht", "Lachha Paratha"],
+            "price": 380
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Debolina Sarkar",
+            "age": 34,
+            "from": "Midnapore",
+            "specialties": ["Macher Matha Diye Moong Dal", "Ucche Bhaja"],
+            "price": 340
+          },
+          {
+            "name": "Chef Paramita Banerjee",
+            "age": 41,
+            "from": "Siliguri",
+            "specialties": ["Chicken Dak Bungalow", "Basanti Pulao"],
+            "price": 360
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Rajeswari Iyer",
+            "age": 45,
+            "from": "Tiruchirapalli",
+            "specialties": ["Mor Kuzhambu", "Beans Paruppu Usili"],
+            "price": 230
+          },
+          {
+            "name": "Chef Bhavani Elango",
+            "age": 36,
+            "from": "Karaikudi",
+            "specialties": ["Chettinad Pepper Chicken", "Kal Dosai"],
+            "price": 370
+          }
+        ]
+      },
+      {
+        "cuisineName": "Malayali",
+        "chefs": [
+          {
+            "name": "Chef Tessy Kurian",
+            "age": 42,
+            "from": "Pathanamthitta",
+            "specialties": ["Kaalan", "Avial"],
+            "price": 260
+          },
+          {
+            "name": "Chef Nimisha Thomas",
+            "age": 33,
+            "from": "Malappuram",
+            "specialties": ["Malabar Chicken Biryani", "Raita + Pickle"],
+            "price": 340
+          }
+        ]
+      },
+      {
+        "cuisineName": "Rajasthani",
+        "chefs": [
+          {
+            "name": "Chef Dimple Rathod",
+            "age": 37,
+            "from": "Ajmer",
+            "specialties": ["Churma Ladoo", "Kadhi Gatta"],
+            "price": 240
+          },
+          {
+            "name": "Chef Kamini Gehlot",
+            "age": 44,
+            "from": "Sikar",
+            "specialties": ["Aloo Pyaz Sabzi", "Missi Roti"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Gujarati",
+        "chefs": [
+          {
+            "name": "Chef Hemali Joshi",
+            "age": 39,
+            "from": "Porbandar",
+            "specialties": ["Khichu", "Rasawala Bateta"],
+            "price": 210
+          },
+          {
+            "name": "Chef Daksha Amin",
+            "age": 48,
+            "from": "Nadiad",
+            "specialties": ["Methi na Gota", "Kadhi + Steamed Rice"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Maharashtrian",
+        "chefs": [
+          {
+            "name": "Chef Madhura Jagtap",
+            "age": 32,
+            "from": "Solapur",
+            "specialties": ["Danyachi Amti", "Bhakri"],
+            "price": 210
+          },
+          {
+            "name": "Chef Varsha Naik",
+            "age": 43,
+            "from": "Sindhudurg",
+            "specialties": ["Bangda Curry", "Ukadiche Modak"],
+            "price": 360
+          }
+        ]
+      },
+      {
+        "cuisineName": "Hyderabadi",
+        "chefs": [
+          {
+            "name": "Chef Rukhsana Begum",
+            "age": 40,
+            "from": "Tolichowki",
+            "specialties": ["Dum Ka Keema", "Sheermal"],
+            "price": 370
+          },
+          {
+            "name": "Chef Yousuf Pasha",
+            "age": 45,
+            "specialties": ["Khatti Dal", "Bagara Rice"],
+            "price": 250
+          }
+        ]
+      },
+      {
+        "cuisineName": "Kashmiri",
+        "chefs": [
+          {
+            "name": "Chef Nusrat Jabeen",
+            "age": 39,
+            "from": "Kupwara",
+            "specialties": ["Tamatar Chaman", "Al Yakhni"],
+            "price": 300
+          },
+          {
+            "name": "Chef Rukhsar Andrabi",
+            "age": 44,
+            "specialties": ["Mujh Gaad"],
+            "price": 380
+          }
+        ]
+      },
+      {
+        "cuisineName": "Assamese",
+        "chefs": [
+          {
+            "name": "Chef Gitali Hazarika",
+            "age": 36,
+            "specialties": ["Xoru Maas Diya Lau", "Rice"],
+            "price": 280
+          },
+          {
+            "name": "Chef Rituparna Bora",
+            "age": 42,
+            "specialties": ["Chicken with Bamboo Shoot", "Black Sesame Chutney"],
+            "price": 330
+          }
+        ]
+      },
+      {
+        "cuisineName": "Odia",
+        "chefs": [
+          {
+            "name": "Chef Archana Mishra",
+            "age": 38,
+            "from": "Cuttack",
+            "specialties": ["Mutton Kassa", "Rice"],
+            "price": 360
+          },
+          {
+            "name": "Chef Binodini Patra",
+            "age": 47,
+            "specialties": ["Dahi Baigana", "Chakuli Pitha"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bihari",
+        "chefs": [
+          {
+            "name": "Chef Shalini Yadav",
+            "age": 34,
+            "from": "Madhubani",
+            "specialties": ["Bihari Chicken Curry", "Rice"],
+            "price": 330
+          },
+          {
+            "name": "Chef Ramesh Thakur",
+            "age": 43,
+            "from": "Samastipur",
+            "specialties": ["Tehri", "Tomato Chutney"],
+            "price": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "regionNumber": 6,
+    "regionName": "Thane – Mulund",
+    "areas": ["Thane West", "Naupada", "Mulund East"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Rajveer Kaur",
+            "age": 40,
+            "from": "Pathankot",
+            "specialties": ["Makke di Roti + Bathua Saag", "Pyaaz Tamatar wali Paneer Sabzi", "Gudh wali Roti"],
+            "price": 280
+          },
+          {
+            "name": "Chef Hardeep Sohi",
+            "age": 48,
+            "from": "Fazilka",
+            "specialties": ["Tawa Murgh Desi", "Ajwain Paratha"],
+            "price": 370
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Kalyani Chakraborty",
+            "age": 43,
+            "from": "Murshidabad",
+            "specialties": ["Muri Ghonto", "Kanchkolar Kofta"],
+            "price": 350
+          },
+          {
+            "name": "Chef Sarmistha Mitra",
+            "age": 39,
+            "from": "Malda",
+            "specialties": ["Chingri Posto", "Aloo Jhuri Bhaja"],
+            "price": 380
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Lakshmi Narayanan",
+            "age": 46,
+            "from": "Tiruppur",
+            "specialties": ["Poondu Kuzhambu", "Curd Rice"],
+            "price": 230
+          },
+          {
+            "name": "Chef Revathi Balasubramanian",
+            "age": 35,
+            "from": "Sivakasi",
+            "specialties": ["Mutton Chukka", "Parotta"],
+            "price": 380
+          }
+        ]
+      },
+      {
+        "cuisineName": "Malayali",
+        "chefs": [
+          {
+            "name": "Chef Lissy Varma",
+            "age": 44,
+            "from": "Kozhikode",
+            "specialties": ["Meen Curry", "Kerala Red Rice"],
+            "price": 360
+          },
+          {
+            "name": "Chef Anjana Kuruvilla",
+            "age": 37,
+            "from": "Kottarakara",
+            "specialties": ["Kadala Curry", "Puttu"],
+            "price": 240
+          }
+        ]
+      },
+      {
+        "cuisineName": "Rajasthani",
+        "chefs": [
+          {
+            "name": "Chef Shanti Bai",
+            "age": 50,
+            "from": "Chittorgarh",
+            "specialties": ["Raabdi", "Gatta Methi"],
+            "price": 230
+          },
+          {
+            "name": "Chef Manju Sisodia",
+            "age": 38,
+            "from": "Alwar",
+            "specialties": ["Jodhpuri Mirchi Vada", "Lasun Chutney"],
+            "price": 190
+          }
+        ]
+      },
+      {
+        "cuisineName": "Gujarati",
+        "chefs": [
+          {
+            "name": "Chef Bina Thakkar",
+            "age": 45,
+            "from": "Palanpur",
+            "specialties": ["Bharela Marcha", "Bajri Rotla + White Butter"],
+            "price": 220
+          },
+          {
+            "name": "Chef Urvashi Modi",
+            "age": 34,
+            "from": "Ahmedabad",
+            "specialties": ["Dal Dhokli", "Papad"],
+            "price": 210
+          }
+        ]
+      },
+      {
+        "cuisineName": "Maharashtrian",
+        "chefs": [
+          {
+            "name": "Chef Snehal Tembhe",
+            "age": 36,
+            "from": "Chandrapur",
+            "specialties": ["Varan Bhaat + Tup", "Batatyachi Bhaji"],
+            "price": 190
+          },
+          {
+            "name": "Chef Vaidehi Koli",
+            "age": 33,
+            "from": "Alibaug",
+            "specialties": ["Koli Fish Curry", "Rice Bhakri"],
+            "price": 350
+          }
+        ]
+      },
+      {
+        "cuisineName": "Hyderabadi",
+        "chefs": [
+          {
+            "name": "Chef Shabana Ali",
+            "age": 41,
+            "from": "Nampally",
+            "specialties": ["Dalcha", "Bagara Khana"],
+            "price": 360
+          },
+          {
+            "name": "Chef Aamir Hussain",
+            "age": 38,
+            "specialties": ["Dum Ki Arbi", "Sheermal"],
+            "price": 250
+          }
+        ]
+      },
+      {
+        "cuisineName": "Kashmiri",
+        "chefs": [
+          {
+            "name": "Chef Farzana Yousuf",
+            "age": 42,
+            "from": "Shopian",
+            "specialties": ["Kabargah", "Saffron Rice"],
+            "price": 420
+          },
+          {
+            "name": "Chef Nargis Dar",
+            "age": 36,
+            "specialties": ["Monje Haakh"],
+            "price": 260
+          }
+        ]
+      },
+      {
+        "cuisineName": "Assamese",
+        "chefs": [
+          {
+            "name": "Chef Mitali Phukan",
+            "age": 39,
+            "specialties": ["Baanhgajor Lagot Kukura", "Rice"],
+            "price": 330
+          },
+          {
+            "name": "Chef Jonamoni Das",
+            "age": 44,
+            "specialties": ["Bilahi Maas", "Mashed Potato Pitika"],
+            "price": 290
+          }
+        ]
+      },
+      {
+        "cuisineName": "Odia",
+        "chefs": [
+          {
+            "name": "Chef Kabita Jena",
+            "age": 40,
+            "from": "Bhubaneswar",
+            "specialties": ["Machha Ghanta", "Rice"],
+            "price": 340
+          },
+          {
+            "name": "Chef Sangeeta Swain",
+            "age": 35,
+            "specialties": ["Santula", "Dal"],
+            "price": 210
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bihari",
+        "chefs": [
+          {
+            "name": "Chef Reena Paswan",
+            "age": 37,
+            "from": "Begusarai",
+            "specialties": ["Bihari Mutton Curry", "Rice"],
+            "price": 360
+          },
+          {
+            "name": "Chef Mukesh Rai",
+            "age": 45,
+            "from": "Vaishali",
+            "specialties": ["Sattu ka Paratha", "Aloo Tamatar Chokha"],
+            "price": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "regionNumber": 7,
+    "regionName": "Dadar – Matunga – Wadala",
+    "areas": ["Dadar East", "Hindu Colony", "Wadala West"],
+    "cuisines": [
+      {
+        "cuisineName": "Punjabi",
+        "chefs": [
+          {
+            "name": "Chef Gurleen Ahluwalia",
+            "age": 39,
+            "from": "Ropar",
+            "specialties": ["Choliya Paneer", "Tandoori Tinda", "Atta Halwa"],
+            "price": 290
+          },
+          {
+            "name": "Chef Surjit Pannu",
+            "age": 47,
+            "from": "Mansa",
+            "specialties": ["Desi Murgh Curry", "Baingan Bharta"],
+            "price": 380
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bengali",
+        "chefs": [
+          {
+            "name": "Chef Poulomi Saha",
+            "age": 36,
+            "from": "Bolpur",
+            "specialties": ["Kumro Phool Bhaja", "Rui Macher Kalia"],
+            "price": 370
+          },
+          {
+            "name": "Chef Indrani Ghoshal",
+            "age": 44,
+            "from": "Cooch Behar",
+            "specialties": ["Shukto", "Chanar Paturi"],
+            "price": 260
+          }
+        ]
+      },
+      {
+        "cuisineName": "Tamil",
+        "chefs": [
+          {
+            "name": "Chef Meenambal Srinivasan",
+            "age": 52,
+            "from": "Kumbakonam",
+            "specialties": ["Kumbakonam Degree Coffee", "Arachuvitta Sambar", "Chow Chow Kootu"],
+            "price": 240
+          },
+          {
+            "name": "Chef Lalitha Viswanathan",
+            "age": 48,
+            "from": "Mayiladuthurai",
+            "specialties": ["Puliyodarai", "Thengai Sadam"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Malayali",
+        "chefs": [
+          {
+            "name": "Chef Beena Soman",
+            "age": 45,
+            "from": "Thalassery",
+            "specialties": ["Thalassery Fish Curry", "Pathiri"],
+            "price": 360
+          },
+          {
+            "name": "Chef Nimmy Paul",
+            "age": 38,
+            "from": "Ernakulam",
+            "specialties": ["Vegetable Ishtu", "Appam"],
+            "price": 270
+          }
+        ]
+      },
+      {
+        "cuisineName": "Rajasthani",
+        "chefs": [
+          {
+            "name": "Chef Geeta Charan",
+            "age": 41,
+            "from": "Bundi",
+            "specialties": ["Safed Maas", "Tandoori Bajra Roti"],
+            "price": 410
+          },
+          {
+            "name": "Chef Kamlesh Kumawat",
+            "age": 36,
+            "from": "Jhunjhunu",
+            "specialties": ["Kairi ki Launji", "Moong Dal Halwa"],
+            "price": 260
+          }
+        ]
+      },
+      {
+        "cuisineName": "Gujarati",
+        "chefs": [
+          {
+            "name": "Chef Jagruti Soni",
+            "age": 43,
+            "from": "Mehsana",
+            "specialties": ["Bhakharwadi", "Gujarati Undhiyu"],
+            "price": 260
+          },
+          {
+            "name": "Chef Nisha Kothari",
+            "age": 35,
+            "from": "Kutch",
+            "specialties": ["Kutchi Dabeli", "Kadhi Khichdi"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Maharashtrian",
+        "chefs": [
+          {
+            "name": "Chef Archana Deshpande",
+            "age": 49,
+            "from": "Dadar native",
+            "specialties": ["Ukadiche Modak", "Aamti"],
+            "price": 230
+          },
+          {
+            "name": "Chef Gauri Bhide",
+            "age": 37,
+            "from": "Karad",
+            "specialties": ["Katachi Amti", "Puran Poli"],
+            "price": 270
+          }
+        ]
+      },
+      {
+        "cuisineName": "Hyderabadi",
+        "chefs": [
+          {
+            "name": "Chef Sana Begum",
+            "age": 40,
+            "from": "Malakpet",
+            "specialties": ["Boti Kebab", "Khubani ka Meetha"],
+            "price": 370
+          },
+          {
+            "name": "Chef Faiz Qadri",
+            "age": 46,
+            "specialties": ["Bagara Rice + Mirchi Salan", "Chicken 65"],
+            "price": 340
+          }
+        ]
+      },
+      {
+        "cuisineName": "Kashmiri",
+        "chefs": [
+          {
+            "name": "Chef Sabiha Rather",
+            "age": 38,
+            "from": "Pulwama",
+            "specialties": ["Aab Gosht", "Kashmiri Pulao"],
+            "price": 420
+          },
+          {
+            "name": "Chef Rukhsana Majid",
+            "age": 44,
+            "specialties": ["Haakh", "Nadru Monje"],
+            "price": 280
+          }
+        ]
+      },
+      {
+        "cuisineName": "Assamese",
+        "chefs": [
+          {
+            "name": "Chef Dhrubajyoti Kalita",
+            "age": 34,
+            "specialties": ["Haanh Aaru Kumura", "Rice"],
+            "price": 380
+          },
+          {
+            "name": "Chef Rupanjali Neog",
+            "age": 39,
+            "specialties": ["Khorika", "Lai Xaak"],
+            "price": 330
+          }
+        ]
+      },
+      {
+        "cuisineName": "Odia",
+        "chefs": [
+          {
+            "name": "Chef Manasi Tripathy",
+            "age": 42,
+            "from": "Balasore",
+            "specialties": ["Macha Tarkari", "Pitha"],
+            "price": 300
+          },
+          {
+            "name": "Chef Prativa Mallick",
+            "age": 37,
+            "specialties": ["Besara", "Rice"],
+            "price": 220
+          }
+        ]
+      },
+      {
+        "cuisineName": "Bihari",
+        "chefs": [
+          {
+            "name": "Chef Anjali Thakur",
+            "age": 35,
+            "from": "Gopalganj",
+            "specialties": ["Bihari Fish Fry", "Rice + Chutney"],
+            "price": 320
+          },
+          {
+            "name": "Chef Devendra Yadav",
+            "age": 42,
+            "from": "Rohtas",
+            "specialties": ["Champaran Ahuna Chicken", "Rice"],
+            "price": 360
+          }
+        ]
+      }
+    ]
+  }
+]
