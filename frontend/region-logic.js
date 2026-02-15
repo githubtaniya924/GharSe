@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // 1. Fetch data from your Backend API
     // Replace URL with your local server address (e.g., http://localhost:5000/api/regions/Mumbai)
-    const response = await fetch(`http://localhost:5000/api/regions/${selectedCity}`);
+    const response = await fetch(`/api/regions/${selectedCity}`);
     const regions = await response.json();
 
     const regionList = document.getElementById('region-list');
