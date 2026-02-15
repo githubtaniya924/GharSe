@@ -13,7 +13,7 @@ mongoose.connect(process.env.MONGO_URI)
     .catch(err => console.log(err));
 
 // Test Route
-app.get('/', (req, res) => res.send("GharSe API is Running"));
+//app.get('/', (req, res) => res.send("GharSe API is Running"));
 
 app.use('/api', require('./routes/api'));
 
